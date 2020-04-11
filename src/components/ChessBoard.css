@@ -1,0 +1,44 @@
+.ChessBoard {
+	width: 528px;
+	height: 528px;
+	background: #9E7757;
+	margin: 0 auto;
+	padding: 0;
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+}
+
+.ChessBoard div:nth-child(1),
+.ChessBoard div:nth-child(3),
+.ChessBoard div:nth-child(5),
+.ChessBoard div:nth-child(7),
+.ChessBoard div:nth-child(10),
+.ChessBoard div:nth-child(12),
+.ChessBoard div:nth-child(14),
+.ChessBoard div:nth-child(16),
+.ChessBoard div:nth-child(17),
+.ChessBoard div:nth-child(19),
+.ChessBoard div:nth-child(21),
+.ChessBoard div:nth-child(23),
+.ChessBoard div:nth-child(26),
+.ChessBoard div:nth-child(28),
+.ChessBoard div:nth-child(30),
+.ChessBoard div:nth-child(32),
+.ChessBoard div:nth-child(33),
+.ChessBoard div:nth-child(35),
+.ChessBoard div:nth-child(37),
+.ChessBoard div:nth-child(39),
+.ChessBoard div:nth-child(42),
+.ChessBoard div:nth-child(44),
+.ChessBoard div:nth-child(46),
+.ChessBoard div:nth-child(48),
+.ChessBoard div:nth-child(49),
+.ChessBoard div:nth-child(51),
+.ChessBoard div:nth-child(53),
+.ChessBoard div:nth-child(55),
+.ChessBoard div:nth-child(58),
+.ChessBoard div:nth-child(60),
+.ChessBoard div:nth-child(62),
+.ChessBoard div:nth-child(64) {
+	background: #FBE99F;
+}
